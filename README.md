@@ -1,1 +1,3 @@
-This app has the ability to add data in the offline mode and upload the data on a server in the online mode. In short, this app is half of my project(App development for the blood donation camp).
+App containes a form which enables access to an offline Database.
+
+The database is updated on a server automatically whenever internet is accessible.
